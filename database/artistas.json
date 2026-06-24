@@ -1,0 +1,18 @@
+[
+    {
+        "id": "ART001",
+        "nome": "Radiohead",
+        "genero": "Alternative Rock",
+        "pais": "Inglaterra",
+        "seguidores": 0,
+        "debut_year": null
+    },
+    {
+        "id": "ART002",
+        "nome": "Pearl Jam",
+        "genero": "Grunge",
+        "pais": "Estados Unidos",
+        "seguidores": 0,
+        "debut_year": null
+    }
+]
